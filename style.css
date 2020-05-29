@@ -34,6 +34,7 @@ border: 0;
 background: transparent url(‘https://aleks-chudopalov.github.io/images/s.png’) no-repeat center top;
 cursor: pointer;
 cursor: hand;
+text-indent: -1000em;
 }
 
 .search
