@@ -31,8 +31,7 @@ height: 21px; // высота кнопки
 margin: 0;
 padding:0;
 border: 0;
-background: transparent url(‘https://sun2.48276.userapi.com/9iBpSdZKENIFVXft_7am4a3B1TPCLfp4x9Pqsw/-sgXNGRXCNc.jpg’) no-repeat center top;
-text-indent: -1000em;
+background: transparent url(‘https://aleks-chudopalov.github.io/images/s.png’) no-repeat center top;
 cursor: pointer;
 cursor: hand;
 }
@@ -47,7 +46,7 @@ padding-top: 100px;
 
 input[type="submit"] 
 {
-    background:url('https://sun2.48276.userapi.com/9iBpSdZKENIFVXft_7am4a3B1TPCLfp4x9Pqsw/-sgXNGRXCNc.jpg');
+    background:url('https://aleks-chudopalov.github.io/images/s.png');
     
 }
 
@@ -100,7 +99,7 @@ color: white;
 
 .menu li {
     float: left;
-    background: url(https://sun2.48276.userapi.com/tB4ial3V7ZRg7Bi5ciHsneJe4xrxiSaLuLegxQ/QFBw-n54Yh8.jpg) 10px center no-repeat;
+    background: url(https://aleks-chudopalov.github.io/images/pic.png) 10px center no-repeat;
     font-family: Arial, sans-serif;
     font-size: 30px;
     list-style: none;
@@ -157,7 +156,7 @@ text-decoration:none;
 }
 
 
-/* Smartphones (вертикальная и горизонтальная) ----------- */
+/* Adaptive ----------- */
 
 @media only screen and (min-width: 350px) and (max-width: 641px) {
   .grid-container {
@@ -168,7 +167,6 @@ text-decoration:none;
     padding: 0em 0%;
   }
   .head_img {
-    background: url(https://munister-v.github.io/img/Header.jpg) no-repeat;
     background-size: cover;
     width: 100%;
     margin-right: auto;
