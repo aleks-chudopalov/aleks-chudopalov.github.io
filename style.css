@@ -1,3 +1,5 @@
+
+
 .bloginfo {
 background: url(‘https://aleks-chudopalov.github.io/images/postinf.png’) no-repeat center top;
 margin: 4%;
@@ -64,6 +66,16 @@ padding: 10px;
 color: white;
 
 }
+
+
+
+.me {
+width: 98%;
+background: url(https://aleks-chudopalov.github.io/images/wordpress_hosting.jpg) no-repeat;
+display: flex;
+align-items: center;
+}	
+
 
 
 /* ================== */
