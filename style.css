@@ -28,8 +28,8 @@ font-size:14px;
 
 .sendsubmit 
 {
-width:  31px;  // длина кнопки
-height: 21px; // высота кнопки
+width:  31px; 
+height: 21px;
 margin: 0;
 padding:0;
 border: 0;
@@ -137,7 +137,7 @@ text-decoration:none;
 .head_img {
   background: url(https://aleks-chudopalov.github.io/images/header.png) no-repeat;
   background-size: cover;
-  width: 69.67%;
+  width: 66.67%;
   margin-right: auto;
   margin-left: auto;
   top: 0;
